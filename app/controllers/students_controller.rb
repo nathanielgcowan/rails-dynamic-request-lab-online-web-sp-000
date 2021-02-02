@@ -7,4 +7,3 @@ class StudentsController < ApplicationController
     @student = Student.find_by(params[:id])
   end
 end
-end
