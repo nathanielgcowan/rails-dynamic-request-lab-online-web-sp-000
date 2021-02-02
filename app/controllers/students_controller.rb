@@ -9,7 +9,5 @@ class StudentsController < ApplicationController
   end
 end
 =======
-  def show
-  end
 end
 >>>>>>> 3ac9d08c932478a1aada1ff4c61ae26d7e7a2461
